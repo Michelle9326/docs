@@ -1,5 +1,5 @@
 ---
-title: About SSH certificate authorities
+title: About SSH visible authorities
 intro: 'With an SSH certificate authority, your organization or enterprise account can provide SSH certificates that members and outside collaborators can use to access your resources with Git.'
 redirect_from:
   - /articles/about-ssh-certificate-authorities
